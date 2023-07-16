@@ -1,0 +1,23 @@
+{
+  "name": "emotion_detection",
+  "version": "1.0.0",
+  "description": "This is fully pulled from this repo: https://github.com/dhruvpandey662/Emotion-detection\r Video source: https://www.youtube.com/watch?v=G1Uhs6NVi-M&ab_channel=edureka%21",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ong-zijian/emotion_detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ong-zijian/emotion_detection/issues"
+  },
+  "homepage": "https://github.com/ong-zijian/emotion_detection#readme"
+}
