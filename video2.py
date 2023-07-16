@@ -13,7 +13,7 @@ app = Flask(__name__)
 # Load model
 model = load_model("best_model.h5")
 face_haar_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 def generate_frames():
     while True:
