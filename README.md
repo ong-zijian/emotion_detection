@@ -1,8 +1,6 @@
 # Emotion Detection Project
-_This is an adpatation from this repo: https://github.com/dhruvpandey662/Emotion-detection_
-_Video source: https://www.youtube.com/watch?v=G1Uhs6NVi-M&ab_channel=edureka%21_
-
-Credits to the repo creator above. I modified the codes and trained a more accurate model for the detection.
+_This is an adpatation from this repo: https://github.com/dhruvpandey662/Emotion-detection_<br>
+_Original video: https://www.youtube.com/watch?v=G1Uhs6NVi-M&ab_channel=edureka%21_
 
 This project aims to look at users facial expression to detect emotions. The model is trained on a large classified image dataset with different expressions. With the trained model, the openCV code would run and overlay the predictions on the screen.
 
